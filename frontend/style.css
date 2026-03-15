@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.builder {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+
+select, button {
+  margin: 8px 0;
+  padding: 6px;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
